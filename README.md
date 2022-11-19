@@ -1,14 +1,13 @@
-# delete-tweets
+# delete-unpopular-tweets
 
-![](https://github.com/koenrh/delete-tweets/workflows/build/badge.svg)
-[![PyPI version](https://badge.fury.io/py/delete-tweets.svg)](https://badge.fury.io/py/delete-tweets)
+This is a copy of [delete-tweets](https://github.com/koenrh/delete-tweets). Almost all content here remains the same except for a few small changes.
 
 This is a simple script that helps you delete tweets (or just replies or retweets)
 from your timeline. There are quite a few third-party services that allow you
 to delete tweets, but these very likely will not allow you to delete tweets beyond
 the infamous [3,200 tweet limit](https://web.archive.org/web/20131019125213/https://dev.twitter.com/discussions/276).
 
-This is a fork of the original that adds the printing of the tweets contents, likes, and RTs. This helps with identifying content on a dry-run, or as it is being deleted.
+This copy adds the printing of the tweets contents, likes, and RTs. This helps with identifying content on a dry-run, or as it is being deleted. This was not forked because ... literally I have no idea how to fork something separately and not have changes go back to the origin in Github.
 
 ## Prerequisites
 
